@@ -1,7 +1,6 @@
-# DanielSanabria
 # Daniel Sanabria Mantilla
 
-**Líder de Marketing | Estratega Digital | En transición hacia Data Analytics**
+**Líder de Marketing | Estratega Digital | Data Analytics**
 
 📍 Bogotá, Colombia
 📧 danielsmant@gmail.com
